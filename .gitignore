@@ -1,6 +1,5 @@
 .DS_Store
 *.pyc
-data/
 checkpoints/
 graphs/
 logs/
